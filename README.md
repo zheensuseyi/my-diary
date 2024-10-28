@@ -1,6 +1,6 @@
 <div><div align="center">
   
-# My Diary!
+<h1> my_diary </h1>
   
 ## ✅ Welcome to my_diary! This is a Python Application that allows a user to create and view diary entries that get saved on their desktop!
 
