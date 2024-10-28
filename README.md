@@ -6,7 +6,7 @@
 
 <h3> Fun and extremely easy to use! It comes with a virtual assistant named "Soda" that gives wisdom! </h3>
 
-<h3>This was developed using PyCharm and Python. External libaries used were "Path" and "random" </h3>
+<h3>This was developed using PyCharm and Python. External libaries used include "Path" and "random" </h3>
 
 <h3>HOW TO INSTALL AND RUN </h3>
 
