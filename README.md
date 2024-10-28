@@ -2,7 +2,7 @@
   
 <h1> my_diary </h1>
   
-## ✅ Welcome to my_diary! This is a Python Application that allows a user to create and view diary entries that get saved on their desktop!
+<h2> ✅ Welcome to my_diary! This is a Python Application that allows a user to create and view diary entries that get saved on their desktop! </h2>
 
 ## Fun and extremely easy to use! It comes with a virtual assistant named "Soda" that gives wisdom!
 
