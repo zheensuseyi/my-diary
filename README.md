@@ -10,7 +10,7 @@
 
 # HOW TO INSTALL AND RUN:
 ## 1. Download 'main.py'
-2. Import it to your IDE of choice
-3. Run the program!
+## 2. Import it to your IDE of choice
+## 3. Run the program!
 </div>
 
