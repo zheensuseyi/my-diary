@@ -126,7 +126,6 @@ def menu():
         "Hi there! What’s up?",
         "Hey! What’s new with you?",
         "What’s going on?",
-        "Hey! How are classes treating you?",
         "Hi! Anything interesting happening?",
         "Hi! Just checking in.",
         "What’s happening? Keeping busy?",
