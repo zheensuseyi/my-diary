@@ -12,6 +12,5 @@
 1. Download 'main.py'
 2. Import it to your IDE of choice
 3. Run the program!
-4. 
 </div>
 
