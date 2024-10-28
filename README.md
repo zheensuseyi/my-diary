@@ -7,10 +7,10 @@
 
 # This was developed using PyCharm and Python. External libaries used were "Path" and "random"
 
-# HOW TO INSTALL:
-## Download 'main.py' 
-
-
+# HOW TO INSTALL AND RUN:
+1. Download 'main.py'
+2. Import it to your IDE of choice
+3. Run the program!
 </div>
 
 # my_diary
