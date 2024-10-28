@@ -12,8 +12,7 @@
 
 <h2> TECHNOLOGIES USED </h2>
 <h3>This was developed using PyCharm and Python. External libaries used include "Path" and "random" </h3>
-
-
+<h3> </h3>
 <h2>HOW TO INSTALL AND RUN </h2>
 
 <h4> 1. Download 'main.py' </h4>
