@@ -1,6 +1,6 @@
 <div><div align="center">
   
-<h1> my_diary </h1>
+<h1> 📔my_diary🖤 </h1>
 
 <h2> OVERVIEW </h2>
 
