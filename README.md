@@ -4,7 +4,7 @@
 
 <h2> OVERVIEW </h2>
 
-<h3> * Welcome to my_diary! This is a Python Application that allows a user to create and view diary entries that get saved on their desktop! </h3>
+<h3>  Welcome to my_diary! This is a Python Application that allows a user to create and view diary entries that get saved on their desktop! </h3>
 <h2> FEATURES </h2>
 <h3> - Users Can Create Diary Entries </h3>
 <h3> - Users Can Read Created Diary Entries </h3>
