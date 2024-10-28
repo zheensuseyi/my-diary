@@ -4,9 +4,12 @@
 
 <h2> OVERVIEW </h2>
 <h3> Welcome to my_diary! This is a Python Application that allows a user to create and view diary entries that get saved on their desktop! </h3>
-
-<h3> Fun and extremely easy to use! It comes with a virtual assistant named "Soda" that gives wisdom! </h3>
-
+<h2> FEATURES </h2>
+<h3> Users Can Create Diary Entries </h3>
+<h3> Users Can Read Created Diary Entries </h3>
+<h3> Users Can Receive Wise Quotes From Virtual Assistant "Soda" </h3>
+<h3> Users Can View an "FAQ" </h3>
+<h2> TECHNOLOGIES USED </h2>
 <h3>This was developed using PyCharm and Python. External libaries used include "Path" and "random" </h3>
 
 <h3>HOW TO INSTALL AND RUN </h3>
