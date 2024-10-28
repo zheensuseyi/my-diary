@@ -22,10 +22,15 @@
 
 <h2> PROGRAM SCREENSHOTS </h2>
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary screenshots/1.png)
+
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary screenshots/2.png)
+
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary screenshots/3.png)
+
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary screenshots/4.png)
+
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary screenshots/5.png)
+
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary screenshots/6.png)
 
 </div>
