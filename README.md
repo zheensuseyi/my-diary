@@ -9,10 +9,12 @@
 <h3> Users Can Read Created Diary Entries </h3>
 <h3> Users Can Receive Wise Quotes From Virtual Assistant "Soda" </h3>
 <h3> Users Can View an "FAQ" </h3>
+
 <h2> TECHNOLOGIES USED </h2>
 <h3>This was developed using PyCharm and Python. External libaries used include "Path" and "random" </h3>
 
-<h3>HOW TO INSTALL AND RUN </h3>
+
+<h2>HOW TO INSTALL AND RUN </h2>
 
 <h4> 1. Download 'main.py' </h4>
 <h4> 2. Import it to your IDE of choice </h4>
