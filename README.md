@@ -22,16 +22,22 @@
 
 <h2> PROGRAM SCREENSHOTS </h2>
 
+# Program Start
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/1.png)
 
+# Menu
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/2.png)
 
+# New Entry
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/3.png)
 
+# Reading All Entries
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/4.png)
 
+# Words of Wisdom
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/5.png)
 
+# FAQ
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/6.png)
 
 </div>
