@@ -21,6 +21,7 @@
 <h3> 3. Run the program! </h3>
 
 <h2> PROGRAM SCREENSHOTS </h2>
+
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/1.png)
 
 ![My Image](https://github.com/zheensuseyi/my_diary/blob/main/diary_screenshots/2.png)
